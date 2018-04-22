@@ -1,0 +1,7 @@
+c:\users\clret\source\repos\DungeonsAndDickBags1.2\DungeonsAndDickBags1.2\bin\Debug\DungeonsAndDickBags1.2.exe.config
+c:\users\clret\source\repos\DungeonsAndDickBags1.2\DungeonsAndDickBags1.2\bin\Debug\DungeonsAndDickBags1.2.exe
+c:\users\clret\source\repos\DungeonsAndDickBags1.2\DungeonsAndDickBags1.2\bin\Debug\DungeonsAndDickBags1.2.pdb
+c:\users\clret\source\repos\DungeonsAndDickBags1.2\DungeonsAndDickBags1.2\obj\Debug\DungeonsAndDickBags1.2.csprojResolveAssemblyReference.cache
+c:\users\clret\source\repos\DungeonsAndDickBags1.2\DungeonsAndDickBags1.2\obj\Debug\DungeonsAndDickBags1.2.csproj.CoreCompileInputs.cache
+c:\users\clret\source\repos\DungeonsAndDickBags1.2\DungeonsAndDickBags1.2\obj\Debug\DungeonsAndDickBags1.2.exe
+c:\users\clret\source\repos\DungeonsAndDickBags1.2\DungeonsAndDickBags1.2\obj\Debug\DungeonsAndDickBags1.2.pdb
