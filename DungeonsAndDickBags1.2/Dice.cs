@@ -8,6 +8,8 @@ namespace DungeonsAndDickBags1._2
 {
     public class Dice
     {
+        //Dice dice = new Dice();
+
         public int rollResult;
 
         Random roll = new Random();
@@ -15,7 +17,6 @@ namespace DungeonsAndDickBags1._2
         public int Die(int sides)
         {
             rollResult = roll.Next(1, (sides += 1));
-            Console.WriteLine(rollResult);
             return rollResult;
         }
     }
