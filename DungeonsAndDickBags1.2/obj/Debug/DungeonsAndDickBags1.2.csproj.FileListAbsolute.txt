@@ -5,3 +5,10 @@ c:\users\clret\source\repos\DungeonsAndDickBags1.2\DungeonsAndDickBags1.2\obj\De
 c:\users\clret\source\repos\DungeonsAndDickBags1.2\DungeonsAndDickBags1.2\obj\Debug\DungeonsAndDickBags1.2.csproj.CoreCompileInputs.cache
 c:\users\clret\source\repos\DungeonsAndDickBags1.2\DungeonsAndDickBags1.2\obj\Debug\DungeonsAndDickBags1.2.exe
 c:\users\clret\source\repos\DungeonsAndDickBags1.2\DungeonsAndDickBags1.2\obj\Debug\DungeonsAndDickBags1.2.pdb
+C:\Users\matt_\Downloads\DungeonsAndDiceRolls-master (1)\DungeonsAndDiceRolls-master\DungeonsAndDickBags1.2\bin\Debug\DungeonsAndDickBags1.2.exe.config
+C:\Users\matt_\Downloads\DungeonsAndDiceRolls-master (1)\DungeonsAndDiceRolls-master\DungeonsAndDickBags1.2\bin\Debug\DungeonsAndDickBags1.2.exe
+C:\Users\matt_\Downloads\DungeonsAndDiceRolls-master (1)\DungeonsAndDiceRolls-master\DungeonsAndDickBags1.2\bin\Debug\DungeonsAndDickBags1.2.pdb
+C:\Users\matt_\Downloads\DungeonsAndDiceRolls-master (1)\DungeonsAndDiceRolls-master\DungeonsAndDickBags1.2\obj\Debug\DungeonsAndDickBags1.2.csprojResolveAssemblyReference.cache
+C:\Users\matt_\Downloads\DungeonsAndDiceRolls-master (1)\DungeonsAndDiceRolls-master\DungeonsAndDickBags1.2\obj\Debug\DungeonsAndDickBags1.2.csproj.CoreCompileInputs.cache
+C:\Users\matt_\Downloads\DungeonsAndDiceRolls-master (1)\DungeonsAndDiceRolls-master\DungeonsAndDickBags1.2\obj\Debug\DungeonsAndDickBags1.2.exe
+C:\Users\matt_\Downloads\DungeonsAndDiceRolls-master (1)\DungeonsAndDiceRolls-master\DungeonsAndDickBags1.2\obj\Debug\DungeonsAndDickBags1.2.pdb

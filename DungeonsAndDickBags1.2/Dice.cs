@@ -19,5 +19,12 @@ namespace DungeonsAndDickBags1._2
             rollResult = roll.Next(1, (sides += 1));
             return rollResult;
         }
+
+        public void RollProcess(int numberOfSides, int stat, int DC)
+        {
+            Die(numberOfSides);
+            //DC stands for "Dice Challenge" - the number you compare your roll against
+            Console.WriteLine(rollResult + " + " + stat + " = " + " " + (rollResult + stat) + " vs DC" + DC);
+        }
     }
 }

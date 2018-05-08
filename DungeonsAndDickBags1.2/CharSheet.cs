@@ -6,13 +6,19 @@ using System.Threading.Tasks;
 
 namespace DungeonsAndDickBags1._2
 {
-    class CharSheet
+    public class CharSheet
     {
-        public string playerName;
-        public string race;
-        public string playerClass;
+        public enum Classes { warrior = 1, rogue = 2, wizard = 3 };
+        public string playerName { get; set; }
+        public string className { get; set; }
 
-        public int STR, REF, VIT, INT, CHA; //Strength, Reflex, Vitality, Intelligence, Charm
+        public string race;
+
+        public int STR = 0;
+        public int REF = 0;
+        public int VIT = 0;
+        public int INT = 0;
+        public int CHA = 0;
 
         string weapon;
 
@@ -20,43 +26,11 @@ namespace DungeonsAndDickBags1._2
 
         public void ShowStats()
         {
-            Console.WriteLine(playerName + " the " + playerClass + ". Your stats are:" +
+            Console.WriteLine(playerName + " the " + className + ". Your stats are:" +
                 "\nSTR: " + STR +
                 "\nDEX:" + REF +
                 "\nINT:" + INT);
         }
 
-        public void Warrior()
-        {
-            playerClass = "warrior";
-
-            STR = 8;
-            REF = 4;
-            INT = 0;
-
-            ShowStats();
-        }
-
-        public void Wizard()
-        {
-            playerClass = "wizard";
-
-            STR = 0;
-            REF = 2;
-            INT = 10;
-
-            ShowStats();
-        }
-
-        public void Rogue()
-        {
-            playerClass = "rogue";
-
-            STR = 2;
-            REF = 8;
-            INT = 4;
-
-            ShowStats();
-        }
     }
 }
